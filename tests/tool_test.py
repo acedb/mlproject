@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-
-# Import from standard library
-import os
-import mlproject
-from math import radians, cos, sin, asin, sqrt
-
 # Import from tools
 from mlproject.tools import haversine
 import pytest
